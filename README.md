@@ -1,7 +1,7 @@
 # Clase 1 
 
 <br>
-Aca estan todos los comandos de la primera clase:</br>
+Aqui estan todos los comandos de la primera clase:</br>
 
 ```sh
 pwd  #Vemos la ruta de la carpeta en la que estamos
@@ -96,7 +96,7 @@ cd ..
 <br>
 Revisar y ejecutar cada comando, hacerlo como practica</br>
 <br>
-César Valentín Fernández Guevara</br>
+Sat Emir Nair Bayona </br>
 
 # Clase 4
 
